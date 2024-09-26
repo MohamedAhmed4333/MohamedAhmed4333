@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**MohamedAhmed4333/MohamedAhmed4333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Computer and Systems Engineering** student at **Helwan University**
+- 📊 Aspiring **Data Scientist**
+- 🔍 Interested in **Machine Learning**, **Deep Learning**, and **AI**
+- 🌱 Currently learning **Python**, **Data Science**, and **Neural Networks**
+- 💻 Working on **Projects** and **Open Source Contributions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-handle)
