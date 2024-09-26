@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Mohamed Ahmed Mahmoud
 
 - 🎓 **Computer and Systems Engineering** student at **Helwan University**
 - 📊 Aspiring **Data Scientist**
