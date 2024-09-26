@@ -24,8 +24,8 @@
 ### Programming Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-R-orange?style=flat-square&logo=r&logoColor=white" alt="c++" />
-  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/-Pandas-yellow?style=flat-square&logo=pandas&logoColor=black" alt="Pandas" />
   <img src="https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
